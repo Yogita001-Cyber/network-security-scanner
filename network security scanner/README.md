@@ -87,7 +87,7 @@ nmap --version
 Clone the repository and install dependencies:
 
 ```bash
-git clone (my project github link)
+git clone (https://github.com/Yogita001-Cyber/network-security-scanner)
 
 cd network-security-scanner
 
